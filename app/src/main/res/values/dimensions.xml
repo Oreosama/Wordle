@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- res/values/dimens.xml -->
+    <dimen name="keyboard_button_margin">1.5dp</dimen>
+    <dimen name="textviewRow_height">65dp</dimen>
+    <dimen name="textview_width">50dp</dimen>
+    <dimen name="textview_margin">10dp</dimen>
+</resources>
